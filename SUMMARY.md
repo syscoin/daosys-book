@@ -1,13 +1,13 @@
 # Table of contents
 
-* [🖌 Purpose](README.md)
+* [What is DAOSYS?](README.md)
 
 ## ABOUT
 
 * [Introduction](about/introduction.md)
-* [Brand Guidelines](about/brand-guidelines.md)
+* [Brand Guidelines](introduction/brand-guidelines.md)
 * [How updates work](about/how-updates-work.md)
-* [Accessibility](about/accessibility.md)
+* [Accessibility](introduction/accessibility.md)
 
 ## identity
 
