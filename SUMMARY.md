@@ -5,9 +5,14 @@
 ## ABOUT
 
 * [Introduction](about/introduction.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](about/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Governance](about/governance.md)
+* [Architecture](about/architecture.md)
+* [Security](about/security.md)
+* [Tokenomics](about/tokenomics.md)
+* [Product RoadMap](about/product-roadmap.md)
+* [Summary](about/summary.md)
+* [Appendix](about/appendix.md)
+* [References](about/references.md)
 
 ## identity
 
