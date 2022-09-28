@@ -48,7 +48,7 @@ $$
 
 To estimate $$DAOSYS_{Rewards}$$ we used our DeFi python simulator; for tutorials and example templates one can reference \[8]. To estimate returns in USD, we applied the Monte Carlo procedure to estimate future point predictions for the USD value of Syscoin, as per section below.
 
-### Transaction Fee Burn
+#### Transaction Fee Burn
 
 To model transaction fee burn to determine the supply end we used Ethereum fee data to serve as a proxy. We have de- termined that transaction fees follow an exponential growth that can be modelled via the following log-log model:
 
@@ -58,7 +58,7 @@ $$
 
 ​where parameters $$a$$ and $$b$$ and its confidence intervals can be estimated using Ordinary Least Squares (OLS).
 
-### Price Point Predictions: Monte Carlo
+#### Price Point Predictions: Monte Carlo
 
 To generate point predictions for the price of Syscoin, we made some assumptions. Price was given the freedom to fluctuate between $0.25 to $25 USD / SYS over the five-year projection interval (ie, 2023-2028) while maintaining an overall upward logarithmic growth, which is a price behavior characteristic that can be attributed to most successful crypto projects. To do this we generated a set of Monte Carlo point predictions, $$\mathbf{\hat{p}}_{t}$$, using the following:
 

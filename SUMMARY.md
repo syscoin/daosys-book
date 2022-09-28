@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is DAOSYS?](README.md)
+* [DAOSYS: Smart DAO Protocol for Decentralized Finance](README.md)
 
 ## ABOUT
 
@@ -11,15 +11,13 @@
 * [Tokenomics](about/tokenomics.md)
 * [Product RoadMap](about/product-roadmap.md)
 * [Summary](about/summary.md)
-* [Appendix](about/appendix.md)
 * [References](about/references.md)
+* [Appendix](about/appendix.md)
 
-## identity
+## Tech Docs
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Facet-controller](tech-docs/facet-controller.md)
+* [Templates](tech-docs/templates.md)
 
 ## Components
 
