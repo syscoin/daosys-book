@@ -11,16 +11,25 @@
 * [Tokenomics](about/tokenomics.md)
 * [Product RoadMap](about/product-roadmap.md)
 * [Summary](about/summary.md)
-* [References](about/references.md)
 * [Appendix](about/appendix.md)
+* [References](about/references.md)
 
 ## Tech Docs
 
 * [Facet-controller](tech-docs/facet-controller.md)
-* [Templates](tech-docs/templates.md)
+* [Diamond Proxy](tech-docs/diamond-proxy.md)
+* [Facet](tech-docs/facet.md)
+* [Service](tech-docs/service.md)
+* [Repos](tech-docs/repos.md)
 
-## Components
+## User Interface
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [Icons](user-interface/icons.md)
+* [Buttons](user-interface/buttons.md)
+* [Inputs](user-interface/inputs.md)
+
+## Templates
+
+* [Icons](templates/icons.md)
+* [Buttons](templates/buttons.md)
+* [Inputs](templates/inputs.md)
