@@ -14,13 +14,13 @@
 * [Appendix](about/appendix.md)
 * [References](about/references.md)
 
-## Tech Docs
+## Hyper Diamond Standard
 
-* [Facet-controller](tech-docs/facet-controller.md)
-* [Diamond Proxy](tech-docs/diamond-proxy.md)
-* [Facet](tech-docs/facet.md)
-* [Service](tech-docs/service.md)
-* [Repos](tech-docs/repos.md)
+* [Facet-controller](hyper-diamond-standard/facet-controller.md)
+* [Diamond Proxy](hyper-diamond-standard/diamond-proxy.md)
+* [Facet](hyper-diamond-standard/facet.md)
+* [Service](hyper-diamond-standard/service.md)
+* [Repos](hyper-diamond-standard/repos.md)
 
 ## User Interface
 
