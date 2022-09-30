@@ -12,7 +12,7 @@ description: High level overview of hyper-diamond standard
 
 ### Evolution of Multi-facet Diamonds
 
-<figure><img src="../.gitbook/assets/diamonds_evolution (1).png" alt=""><figcaption><p>FIGURE 3: Evolution multi-facet Diamonds</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/diamonds_evolution.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Good to know:** DAOSYS is analogous to MVC design framework
