@@ -26,7 +26,7 @@
 
 \[13] J. Sidhu, A Design For An Efficient Coordinated Financial Computing Platform, Feb 2021, Accessed on: Sep 2021. \[Online]. Available: [https://jsidhu.medium.com/a-design-for-an-efficient-coordinated-financial-computing-platform-ab27e8a825a0](https://jsidhu.medium.com/a-design-for-an-efficient-coordinated-financial-computing-platform-ab27e8a825a0)
 
-\[14] J. Sidhu and I.C. Moore, Syscoin 4: A Peer-to-Peer Electronic Cash System Built For Decentralized Web 3.0 Business Applications, Syscoin Platform, Dec. 2021. Accessed on: Sept 2022. \[Online]. Available: [https://syscoin.org/syscoin4\_whitepaper.pdf](https://syscoin.org/syscoin4\_whitepaper.pdf)
+\[14] J. Sidhu and I.C. Moore, Syscoin 4: A Peer-to-Peer Electronic Cash System Built For Decentralized Web 3.0 Business Applications, Syscoin Platform, Dec. 2021. Accessed on: Sept 2022. \[Online]. Available: [https://syscoin.org/file/syscoin4-whitepaper.pdf](https://syscoin.org/file/syscoin4-whitepaper.pdf)
 
 &#x20;
 

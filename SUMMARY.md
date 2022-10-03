@@ -16,8 +16,8 @@
 
 ## Hyper Diamond Standard
 
-* [Facet-controller](hyper-diamond-standard/facet-controller.md)
-* [Diamond Proxy](hyper-diamond-standard/diamond-proxy.md)
+* [Evolution of Proxy Contracts](hyper-diamond-standard/evolution-of-proxy-contracts.md)
+* [Three-Tier Architecture](hyper-diamond-standard/three-tier-architecture.md)
 * [Facet](hyper-diamond-standard/facet.md)
 * [Service](hyper-diamond-standard/service.md)
 * [Repos](hyper-diamond-standard/repos.md)
