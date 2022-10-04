@@ -17,19 +17,12 @@
 ## Hyper Diamond Standard
 
 * [Evolution of Proxy Contracts](hyper-diamond-standard/evolution-of-proxy-contracts.md)
-* [Three-Tier Architecture](hyper-diamond-standard/three-tier-architecture.md)
-* [Facet](hyper-diamond-standard/facet.md)
-* [Service](hyper-diamond-standard/service.md)
-* [Repos](hyper-diamond-standard/repos.md)
+* [DAOSYS Three-Tier Architecture](hyper-diamond-standard/daosys-three-tier-architecture.md)
 
 ## User Interface
 
-* [Icons](user-interface/icons.md)
-* [Buttons](user-interface/buttons.md)
-* [Inputs](user-interface/inputs.md)
+* [page 1](user-interface/page-1.md)
 
 ## Templates
 
-* [Icons](templates/icons.md)
-* [Buttons](templates/buttons.md)
-* [Inputs](templates/inputs.md)
+* [page 1](templates/page-1.md)

@@ -1,8 +1,8 @@
 ---
-description: High level overview of hyper-diamond standard
+description: Evolution of the Hyper-diamond standard
 ---
 
-# Facet-controller
+# Evolution of Proxy Contracts
 
 <figure><img src="../.gitbook/assets/package (2).png" alt=""><figcaption><p>FIGURE 1: Hyper-diamond standard consisting of delegate Services that replace facets defined in ERC-2535</p></figcaption></figure>
 
@@ -12,7 +12,7 @@ description: High level overview of hyper-diamond standard
 
 ### Evolution of Multi-facet Diamonds
 
-<figure><img src="../.gitbook/assets/diamonds_evolution.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/diamonds_evolution.png" alt=""><figcaption><p>FIGURE 3: Evolution of Hyper-diamond standard</p></figcaption></figure>
 
 {% hint style="info" %}
 **Good to know:** DAOSYS is analogous to MVC design framework
