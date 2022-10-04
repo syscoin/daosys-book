@@ -18,6 +18,7 @@
 
 * [Evolution of Proxy Contracts](hyper-diamond-standard/evolution-of-proxy-contracts.md)
 * [DAOSYS Three-Tier Architecture](hyper-diamond-standard/daosys-three-tier-architecture.md)
+* [Diamond Hardened Security](hyper-diamond-standard/diamond-hardened-security.md)
 
 ## User Interface
 

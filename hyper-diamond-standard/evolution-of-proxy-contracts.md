@@ -7,7 +7,11 @@ description: Evolution of the Hyper-diamond standard
 <figure><img src="../.gitbook/assets/package (2).png" alt=""><figcaption><p>FIGURE 1: Hyper-diamond standard consisting of delegate Services that replace facets defined in ERC-2535</p></figcaption></figure>
 
 {% hint style="info" %}
-**Service:** where most business logic is implemented (eg, DAOSYS DeFi Strategy)
+**Facet:** where delegation operations are implemented
+
+**Service:** where business logic is implemented (eg, DAOSYS DeFi Strategy)
+
+**Repos:** where CRUD operations are implemented
 {% endhint %}
 
 ### Evolution of Multi-facet Diamonds
