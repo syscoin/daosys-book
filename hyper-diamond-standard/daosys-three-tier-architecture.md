@@ -10,7 +10,7 @@ Three-tier architecture is a well-established software architecture that organiz
 * **Application tier**: services classes
 * **Data tier**: repository classes
 
-The utility of this is to manage properly structured code  to make it easier for other developers to work with. Thus, no matter what the application (eg, API, CLI, etc.), it is important to approach your software design in this way, which is what we are introducing into our DAOSYS smart contract implementations, namely the _Hyper Diamond Standard_.&#x20;
+The utility of this is to manage properly structured code to make it easier for other developers to work with. Thus, no matter what the application (eg, API, CLI, etc.), it is important to approach software design in this way, which is what we are introducing into our DAOSYS smart contract implementations, namely the _Hyper Diamond Standard_.
 
 #### Presentation Tier
 
@@ -18,7 +18,7 @@ This is the user interface and communication layer, and is where the controller 
 
 #### Application Tier
 
-This is known as the logic or middle tier, and is considered the heart of the application. For instance this is where the DeFi setup would be established, which would be determined after running through several implementations of the design via the python simulator. This is where the services which get called by the controller classes and might call repositories or other services.&#x20;
+This is known as the logic or middle tier, and is considered the heart of the application. For instance this is where the DeFi setup would be established, which would be determined after running through several implementations of the design via the python simulator. This is where the services which get called by the controller classes and might call repositories or other services.
 
 #### Data Tier
 
@@ -26,7 +26,7 @@ This is the persistence or repository layer whose responsibilities are limited t
 
 ### DAOSYS Package
 
-This three-tier architecture is the structure by which the DAOSYS facet controller adheres to, which is defined as a package; see Fig 3. This well defined structure is the Hyper-diamond standard, and serves as an extension of EIP-2535. This is where we define each diamond facet as a fully functioning controller in accordance to well established protocols that have successfully served the software engineering process for the last number of decades.
+This three-tier architecture is the structure by which the DAOSYS facet controller adheres to, which is defined as a package; see Fig 3. The structure that these DAOSYS packages follow is the Hyper-diamond standard, and serves as an extension of EIP-2535. This is where we define each diamond facet as a fully functioning controller in accordance to well established protocols that have successfully served the software engineering process.
 
 <figure><img src="../.gitbook/assets/three_tier_package.png" alt=""><figcaption><p>FIGURE 3: Three-tier structure of the DAOSYS package</p></figcaption></figure>
 
