@@ -4,7 +4,7 @@
 
 EIP-2535 was an Ethereum proposal launched in 2020 to allow for the creation of modular contract systems that can be extended after deployment \[5]. To solve this problem, this new proposal introduced a concept known as Diamonds. A Diamond refers to a smart contract system where functionality and storage is split up into separate contracts, and is an extension of a proxy contract.
 
-A proxy contract is the the immutable part a user interacts with which holds data. It contains a fallback function which will catch any function call and use `delegatecall` to forward it to a second logic contract. A `delegatecall` will execute a function defined in the called contract (logic), but within the context of the calling contract (proxy). Thus, we have our logic defined separately from our data. This allows users to change the logic contract without changing the immutable underlying data.&#x20;
+A proxy contract is the the immutable part a user interacts with which holds data. It contains a fallback function which will catch any function call and use `delegatecall` to forward it to a second logic contract. A `delegatecall` will execute a function defined in the called contract (logic), but within the context of the calling contract (proxy). Thus, we have our logic defined separately from our data. This allows users to change the logic contract without changing the immutable underlying data.
 
 There are several limitations to proxy contracts which include: (a) implementing minor upgrades; (b) 24kb max con- tract size limit; (c) can only create identical proxy instances using one logic contract; and (d) cannot have a modular permission system. Diamonds solve these issues by allowing for multiple logic contracts which talks to the original proxy contract via the `delegatecall`; for comparison between these two systems see Fig. 10 .
 
@@ -50,7 +50,7 @@ To estimate $$DAOSYS_{Rewards}$$ we used our DeFi python simulator; for tutorial
 
 #### Transaction Fee Burn
 
-To model transaction fee burn to determine the supply end we used Ethereum fee data to serve as a proxy. We have de- termined that transaction fees follow an exponential growth that can be modelled via the following log-log model:
+To model transaction fee burn to determine the supply end we used Ethereum fee data to serve as a proxy. We have determined that transaction fees follow an exponential growth that can be modelled via the following log-log model:
 
 $$
 ln(\hat{y_{t}}) = a + bln(x_{t}),
@@ -75,7 +75,7 @@ $$
 ​and $$\mathbf{z}_{t}$$is an ARIMA(1,1,1) process, given by:
 
 $$
-\mathbf{z}_{t} = \gamma + \mathbf{z}_{t-1} + \phi_{1} \mathbf{z}_{t-1} - \phi_{1} \mathbf{z}_{t-2} +  \theta_{1} \mathbf{e}_{r-1} + \mathbf{e}_{t},
+\mathbf{z}_{t} = \gamma + \mathbf{z}_{t-1} + \phi_{1} \mathbf{z}_{t-1} - \phi_{1} \mathbf{z}_{t-2} + \theta_{1} \mathbf{e}_{r-1} + \mathbf{e}_{t},
 $$
 
 ​where $$\phi_{1}$$is the AR(1) coefficient, $$\theta_{1}$$is the MA(1) coefficient, and $$\mathbf{e}_{t} \sim N(0, \sigma^2)$$. Once these sets were generated, we estimated the $$5^{th}$$ and $$95^{th}$$percentiles to attain the 90% prediction interval. For a table of these point predictions along with its corresponding confidence interval, see \[8].
